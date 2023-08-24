@@ -9,13 +9,18 @@ Discord Bot to play Chess with friends, it works with text commands and generate
 
 1 - Download the files and run the main
 
-2 - digit "chess_channel" to set the channel
+2 - create a Discrod Bot 
+Tutorial: https://youtu.be/hoDLj0IzZMU
 
-3 - two players must gidit "play"
+3 - in bot.py at line 17 replace 'YOUR_TOKEN_HERE' with your Bot Token
 
-4 - digit "start"
+4 - digit "chess_channel" to set the channel
 
-5 - have fun
+5 - two players must gidit "play"
+
+6 - digit "start"
+
+7 - have fun
 
 ![image](https://github.com/uCring3/Discord-Chess-Bot/assets/108148486/71188814-814b-4f2e-ade8-eae8db71dcc8)
 
