@@ -39,3 +39,5 @@ start a command with "?" to send it in private
 
 "chess_channel" to set the channel to play chess
 "surrender" to surrender
+
+![image](https://github.com/uCring3/Discord-Chess-Bot/assets/108148486/7ada3a85-2618-42eb-bd7e-7248f3030184)
