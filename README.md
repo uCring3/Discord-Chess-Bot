@@ -3,6 +3,7 @@
 Discord Bot to play Chess with friends, it works with text commands and generates an emoji board.
 
 
+
 #To run the bot
 
 
@@ -15,6 +16,7 @@ Discord Bot to play Chess with friends, it works with text commands and generate
 4 - digit "start"
 
 5 - have fun
+
 
 
 Commands list: (they work only in the chosen channel)
